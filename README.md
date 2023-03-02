@@ -1,4 +1,4 @@
-This simple code to make generative NFT collections on Stacks STX.
+This simple code to make generative NFT collections on Stacks STX ~ BETA CODE
 ## Dependancies
 - [Python 3](https://www.python.org/downloads/)
 - [Pillow 9.x](https://pillow.readthedocs.io/en/stable/) `pip install Pillow`
