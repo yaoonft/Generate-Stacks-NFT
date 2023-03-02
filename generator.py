@@ -25,32 +25,16 @@ class Trait:
 traits = [
     Trait(
         "Background", 
-        ["Blue Sky", "Blue", "Cream", "Green", "Lime", "Pink", "Purple", "Red", "Wheat", "White"],
-        [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]), # 30% + 20% + 10% + 40% = 100%
+        ["Bat", "Basket", "Anya"],
+        [40, 40, 20]),
     Trait(
         "Base", 
-        ["Alien", "Blue Soul", "Blues", "Brown", "Dark", "Gold", "Monster", "Orange", "Pinks", "Purples", "Reds", "Whites", "Zombie"], 
-        [5, 5, 10, 10, 5, 5, 5, 10, 10, 10, 10, 10, 5]),
+        ["Bat", "Basket", "Anya"],
+        [40, 40, 20]),
     Trait(
         "Eyes", 
-        ["Angry", "Bored Eye", "Closed", "Happy Eye", "Looking Left", "Looking Top", "Normal Eye", "Sad", "Shock", "Wink"], 
-        [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]),
-    Trait(
-        "Mouth", 
-        ["Angry Mouth", "Balloon", "Bored", "Chia Mask", "Cigar", "Fangs", "Happy", "Normal", "Open 2", "Open Mouth", "Sadly", "Smile 2", "Smiles", "Smoke", "Tongue"], 
-        [10, 5, 5, 10, 5, 10, 5, 5, 10, 10, 5, 5, 5, 5, 5]),
-    Trait(
-        "Cloth", 
-        ["Banana Shirt", "Basketball", "Black Shirt", "Blue Hoodie", "Blue Shirt Bag", "Blue Tie", "Bow", "Camera", "Chef", "Chia Costume", "Clear Cloth", "Dexie","FMB","Jail","Mermaid Costume","Mummy Costume", "Naruto Hoodie", "Paint Shirt", "Purple Shirt","Red Cloth","Red Tie", "Sweater", "Torn Shirt", "Yellow Hoodie"], 
-        [3, 3, 5, 5, 5, 5, 5, 5, 5, 2, 5, 2, 5, 5, 5, 5, 5, 2, 2, 5, 5, 5, 3, 3]),
-    Trait(
-        "Eyewear", 
-        ["3D Glasses", "Blindfold", "Clear", "Green Glasses", "Invisible Glasses", "Pirate Glasses", "Pixel Glasses", "Ski Glasses", "Sunglasses", "Visor", "VR"], 
-        [10, 10, 10, 5, 10, 10, 10, 10, 10, 10, 5]),
-    Trait(
-        "Headwear", 
-        ["Army Hat", "Arrow", "Artist Hat", "Banana", "Blue Backwards", "Camera Bandana", "Chia Bandana", "Clear Hat", "Cowboy", "Crown", "Devil Horn", "Egg","Fishing Hat","Golf Hat","halo","Headband", "Headphone", "Jeans Hat", "Ninja","Octopus","Pencil Bandana", "Pirate", "Pizza", "Police", "Purple Backwards", "Rainbow Hat", "Red Beanie", "Sailor Hat", "Samurai", "Santa", "Sheep Hat", "Straw Hat", "Toilet Paper", "XCH Hat", "Yellow Beanie"], 
-        [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]),
+        ["Bat", "Basket", "Anya"],
+        [40, 40, 20]),
 ]
 
 ## For a Simple project you should only need to change values above this line
