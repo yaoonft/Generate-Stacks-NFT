@@ -6,7 +6,7 @@ This simple code to make generative NFT collections on Stacks STX.
 
 <br>add all your traits to "components" (check the components folder for example)<br/>
 <br>go to "generator.py"<br/>
-<br>change TOTAL_IMAGES = ?? (Number of random unique images you want to generate)<br/>
+<br>change TOTAL_IMAGES = 100 or whatever you want (Number of random unique images you want to generate)<br/>
 <br>input your traits <br/>
 <br>EXAMPLE<br/>
 > Trait( <br/>
@@ -17,6 +17,13 @@ This simple code to make generative NFT collections on Stacks STX.
 <br>for generate use command "python generator.py"<br/>
 
 After done check your "collection" folder for the result.
+
+
+<br>EXAMPLE RESULT<br/>
+> Check "collection" folder <br/>
+
+
+
 
 
 > *Want to toss some STX or an NFT?* <br/>
